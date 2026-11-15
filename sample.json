@@ -1,0 +1,21 @@
+{
+  "routes": [
+    {
+      "route": "Essikado \u2192 Accra",
+      "students": 83,
+      "capacity": 45,
+      "fare": 180,
+      "coach_cost": 6200,
+      "other_cost": 400
+    },
+    {
+      "route": "Essikado \u2192 Kumasi",
+      "students": 57,
+      "capacity": 45,
+      "fare": 200,
+      "coach_cost": 6800,
+      "other_cost": 450
+    }
+  ],
+  "contingency_pct": 10
+}
